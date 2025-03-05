@@ -10,11 +10,6 @@ A basic web-based calculator built with HTML, CSS, and JavaScript. This calculat
 - Responsive design
 - Clean and minimalistic UI
 
-## Demo
-[Insert live demo link here if available]
-
-## Screenshots
-[Add calculator screenshot here if desired]
 
 ## Technologies Used
 - HTML5
